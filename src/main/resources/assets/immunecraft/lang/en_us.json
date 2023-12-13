@@ -1,0 +1,8 @@
+{
+  "item.immunecraft.pipette_100-1000": "Eppendorf Pipette (100-1000)",
+  "item.immunecraft.pipette_1000-10000": "Eppendorf Pipette (1000-10000)",
+  "item.immunecraft.syringe": "Syringe",
+  "block.immunecraft.bioreactor": "Bioreactor",
+
+  "itemGroup.immunecrafttab": "ImmuneCraft"
+}

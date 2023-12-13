@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "immunecraft:block/bioreactor"}
+  }
+}

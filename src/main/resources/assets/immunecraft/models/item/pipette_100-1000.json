@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "immunecraft:item/pipette_100-1000"
+  }
+}
